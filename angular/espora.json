@@ -1,0 +1,40 @@
+{
+  "name": "Angular Basic Course",
+  "mentors": [
+    {
+      "name": "Vanessa Marely Aristizabal Angel",
+      "contact": {
+        "github": "https://www.github.com/vanessamarely",
+        "linkedin": "https://www.linkedin.com/in/vanessa-marely-aristizabal-angel"
+      }
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "Oscar Granada",
+      "email": "oscar.andres.granada@gmail.com",
+      "contact": {
+        "github": "https://www.github.com/ogranada",
+        "linkedin": "http://linkedin.com/in/ogranada"
+      }
+    }
+  ],
+  "content": [
+    {
+      "id": "f523e240-6cc3-44e6-bb80-ffcd7bae43cb",
+      "title": "Nivel 0",
+      "lang": "es",
+      "content": "./content/es/0_nivel-0/0_introducción.md",
+      "created": "2021-06-02T14:20:25.619Z",
+      "updated": "2021-06-02T14:20:25.619Z"
+    },
+    {
+      "id": "f523e240-6cc3-44e6-bb80-ffcd7baq43ce",
+      "title": "Level 0",
+      "lang": "en",
+      "content": "./content/en/0_level-0/0_intro.md",
+      "created": "2021-06-02T14:20:25.619Z",
+      "updated": "2021-06-02T14:20:25.619Z"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Javascript Basic Course",
+  "mentors": [
+    {
+      "name": "John Doe",
+      "contact": {
+        "linkedin": "http://linkedin.com/in/jdo3",
+        "email": "john.do3@gmail.com",
+        "website": "john.do3@gmail.com"
+      }
+    }
+  ],
+  "content": [
+    {
+      "id": "f523e240-6cc3-44e6-bb80-ffcd7bae43cb",
+      "title": "The Javascript Language",
+      "content": "./content/ch1/the_javascript_language.md",
+      "created": "2021-06-02T14:20:25.619Z",
+      "updated": "2021-06-02T14:20:25.619Z"
+    },
+    {
+      "id": "f350e240-6cc3-44e6-bb80-ffcd7bee45ca",
+      "title": "Javascript Coertion",
+      "content": "./content/ch2/javascript_coertion.md",
+      "created": "2021-06-02T14:20:25.619Z",
+      "updated": "2021-06-02T14:20:25.619Z"
+    },
+    {
+      "id": "7416a3c0-68db-48fc-8608-8f59fcdfe94c",
+      "parent": "f350e240-6cc3-44e6-bb80-ffcd7bee45ca",
+      "title": "The interpreted language environment",
+      "content": "./content/ch1/section1/interpreted_language_env.md",
+      "created": "2021-06-02T14:20:25.619Z",
+      "updated": "2021-06-02T14:20:25.619Z"
+    },
+    {
+      "id": "9c1f720c-fe9c-45c3-814c-2d5f1ac660ab",
+      "parent": "f350e240-6cc3-44e6-bb80-ffcd7bee45ca",
+      "title": "Javascript language features",
+      "content": "./content/ch1/section2/javascript_language_features.md",
+      "created": "2021-06-02T14:20:25.619Z",
+      "updated": "2021-06-02T14:20:25.619Z"
+    },
+    {
+      "id": "Jw3r32a271gglnUnOE07r3",
+      "parent": "9c1f720c-fe9c-45c3-814c-2d5f1ac660ab",
+      "title": "Javascript as dynamically typed language",
+      "content": "./content/ch1/section1/js_as_dyn_typed_lang.md",
+      "created": "2021-06-02T14:20:25.619Z",
+      "updated": "2021-06-02T14:20:25.619Z"
+    },
+    {
+      "id": "Jg3glnUnOE07rf43KhYxC3",
+      "parent": "9c1f720c-fe9c-45c3-814c-2d5f1ac660ab",
+      "title": "Javascript as weak typed language",
+      "content": "./content/ch1/section1/js_as_weak_typed_lang.md",
+      "created": "2021-06-02T14:20:25.619Z",
+      "updated": "2021-06-02T14:20:25.619Z"
+    },
+    {
+      "id": "7rf43Kh4Mn-K3hYxC3Fls5",
+      "parent": "9c1f720c-fe9c-45c3-814c-2d5f1ac660ab",
+      "title": "Javascript as a prototype based language",
+      "content": "./content/ch1/section1/js_as_dyn_typed_lang.md",
+      "created": "2021-06-02T14:20:25.619Z",
+      "updated": "2021-06-02T14:20:25.619Z"
+    }
+  ]
+}
